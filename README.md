@@ -1,1 +1,1 @@
-https://phonebook-backend-1s5m.onrender.com/api/persons
+https://phonebook-backend-1s5m.onrender.com

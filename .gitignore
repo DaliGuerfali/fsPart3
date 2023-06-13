@@ -1,3 +1,4 @@
-/node_modules
-
-/test.rest
+node_modules
+mongoDev.js
+.env
+test.rest
